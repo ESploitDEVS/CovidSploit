@@ -1,3 +1,5 @@
 # CovidSploit
 
 THIS IS A VERSION WHERE COVIDSPLOITS FILES ARE IN ITS EXTRACTED STATE!
+
+I also offer the offical rar btw.
